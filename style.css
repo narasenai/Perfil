@@ -18,8 +18,13 @@ body {
     margin: 10px;
     display: block;
     text-decoration: none;
+    min-width: 500px;
+    max-width: 500px;
+
   }
   img{
     border-radius: 75px;
     margin-top: 20px;
   }
+
+  
